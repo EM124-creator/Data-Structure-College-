@@ -1,0 +1,9 @@
+1.Code Parsing (Bracket Checking): Ensuring every opening bracket has a corresponding closing bracket.
+
+2.Undo Feature: Saving previous actions to revert them later.
+
+3.Browser Back Button: Tracking your browsing history to return to the most recent page.
+
+4.Function Call Management: Managing the order of returning to functions after they execute.
+
+5.Evaluating Mathematical Expressions: Solving complex calculations.
